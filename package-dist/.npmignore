@@ -1,7 +1,5 @@
 node_modules/
-build.mjs
 *.log
 .DS_Store
 src/
 examples/
-.git/
